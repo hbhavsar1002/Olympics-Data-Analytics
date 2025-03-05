@@ -1,5 +1,5 @@
 # Tokyo and Paris Olympics Data Analytics
-# Hospital-Data-Analysis-Dashboard
+
 ### Overview
 The Tokyo and Paris Olympics Data Analytics Dashboard provides a comprehensive overview of athlete participation, sports preferences, and medal distributions across the two Olympic Games. It highlights key metrics such as the total number of athletes in various sports, gender dominance in specific events, and the performance of top countries. The dashboard also offers insights into the demographics of athletes, including age preferences for certain sports and the percentage of athletes competing for foreign countries.
 
