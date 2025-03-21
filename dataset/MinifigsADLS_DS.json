@@ -1,0 +1,21 @@
+{
+	"name": "MinifigsADLS_DS",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ADLSG2_LS",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Json",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileName": "minifigs.json",
+				"folderPath": "Rebrickable/Minifigs",
+				"fileSystem": "raw"
+			}
+		},
+		"schema": {}
+	},
+	"type": "Microsoft.Synapse/workspaces/datasets"
+}
